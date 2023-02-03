@@ -26,7 +26,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kabanosk&theme=dark&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sko0owi&theme=dark&background=0d1117)](https://git.io/streak-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kabanosk)
 
