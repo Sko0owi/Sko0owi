@@ -28,7 +28,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sko0owi&theme=dark&background=0d1117)](https://git.io/streak-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kabanosk)
+![Profile Views](https://komarev.com/ghpvc/?username=Sko0owi)
 
 ### 🤝🏻 Connect with Me
 <a href="mailto:dawid.skowronek24@gmail.com"><img src="https://img.shields.io/badge/dawid.skowronek24@gmail-b23e2f?logo=gmail&logoColor=white"></a>
