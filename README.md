@@ -33,5 +33,5 @@
 ### 🤝🏻 Connect with Me
 <a href="mailto:dawid.skowronek24@gmail.com"><img src="https://img.shields.io/badge/dawid.skowronek24@gmail-b23e2f?logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/dawid-skowronek-5b9a40212/"><img src="https://img.shields.io/badge/Dawid Skowronek-blue?logo=linkedin&logoColor=white"></a>
-<a href="https://https://itch.io/profile/sko0owi"><img src="https://img.shields.io/badge/Sko0owi-f33e2f?&logo=itch.io&logoColor=white"></a>
+<a href="https://itch.io/profile/sko0owi"><img src="https://img.shields.io/badge/Sko0owi-f33e2f?&logo=itch.io&logoColor=white"></a>
 <a href="https://sko0owi.github.io"><img src="https://img.shields.io/badge/My website-3e2f?&logoColor=white"></a>
