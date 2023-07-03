@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About me
 🎓 Hi, I’m @Sko0owi, Computer Science Student at University of Wrocław <br/>
-👨‍💻 Junior Software Engineer at Nokia <br/>
+👨‍💻 Research Assistant at Huawei <br/>
 🤖 I’m interested in any topic related to Game Development and Machine Learning<br/>
 🌱 I’m currently learning Python and JavaScript
 
